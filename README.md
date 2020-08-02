@@ -11,3 +11,29 @@ or as I like to call it Google. This is where they have built in applications, w
 One of my favorite functions of Operating Systems is the applications. If we have the “Shell” the desktop its not a lot of fun. 
 It would be like looking at a blanket that we cannot touch, feel, or even sleep in. 
 Linux has a app store that houses their applications which for the engineers using the OS they can search what they want to install which inevitably is what the user sees/has loaded when they get their brand new out of the box device. 
+
+Update README.md
+
+@HartwellK
+HartwellK committed 12 seconds ago
+  
+Update to add applications …
+
+@HartwellK
+HartwellK committed 3 minutes ago
+  
+Updated add the function of desktop …
+
+@HartwellK
+HartwellK committed 18 minutes ago
+  
+Create OperatingSystemsFunctions.txt
+
+@HartwellK
+HartwellK committed 27 minutes ago
+  
+Initial commit
+
+@HartwellK
+HartwellK committed 31 minutes ago
+  
